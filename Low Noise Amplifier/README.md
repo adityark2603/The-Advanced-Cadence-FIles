@@ -3,7 +3,8 @@ A Low Noise Amplifier designed using Cadence Virtuoso tool
 
 A Low Noise Amplifier (LNA) is an electronic amplifier designed to amplify very weak signals (usually in the RF/microwave range) without adding significant noise. It is typically the first stage in a receiver chain (like in radios, satellite, or radar systems).
 
-![image](https://github.com/user-attachments/assets/bd750c57-134e-4334-b753-abdad8b654ef)
+<img width="908" height="546" alt="image" src="https://github.com/user-attachments/assets/c7f590e9-942c-4e7f-bd41-c7502ad33a0d" />
+
 
 
 
